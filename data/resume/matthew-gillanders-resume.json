@@ -1,0 +1,87 @@
+{
+  "Summary": [
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Content": "Data professional with hands-on experience building ETL/ELT pipelines,\ndeveloping Power BI dashboards, and working with cloud-based tools such\nas Microsoft Azure and Databricks. Demonstrates a collaborative approach\nto solving business problems through data, with strong attention to\ndetail and a commitment to continuous learning. Passionate about\ncontributing to meaningful data solutions while developing technical\nexpertise and business acumen within dynamic data teams."
+    }
+  ],
+  "TechnicalSkills": [
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Content": "**Data Visualization & BI:** Power BI (DAX, Power Query, Paginated\nReports), Excel\n\n**Data Engineering:** ETL/ELT Pipeline Design, Data Modeling (Star\nSchema), Azure Data Factory, Databricks, Delta Lake\n\n**Cloud & Database:** Microsoft Azure (Fabric, Synapse, Azure Data Lake\nStorage), Azure SQL, Lakehouse Architecture\n\n**Programming Languages:** Python, SQL, PySpark, M, DAX, Git\n\n**Professional Tools:** Visio, TabularEditor2, AI/LLM (Claude, Copilot,\nChatGPT), Github, Microsoft Office Suite, CRM Systems, Workflow\nAutomation (Power Automate, Zapier)"
+    }
+  ],
+  "Certifications": [
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Content": "**Microsoft \\| DP-900: Azure Data Fundamentals** \\| *Examination\nPending*\n\n**Databricks \\| Certified Data Engineer Associate** \\| *In Progress*\n\n**Claude \\| Code in Action** \\| Anthropic \\| *In Progress*"
+    }
+  ],
+  "Education": [
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "School of Advanced Digital Technology, SAIT 01/2025 -- current",
+      "Bullet": [
+        "Completed hands-on labs aligned with Microsoft certifications including DP-700 (Fabric Data Engineer Associate), DP-600 (Fabric Analytics Engineer Associate), DP-203 (Data Engineering on Azure), and PL-300 (Power BI Data Analyst Associate), gaining practical experience in building data pipelines, implementing lakehouses and data warehouses, transforming and modeling data, and delivering analytics solutions, developing proficiency in modern cloud-based data architectures and enterprise analytics tools.",
+        "Developed intermediate coding skills in Python and SQL, applying them to build and optimize ETL/ELT pipelines for data extraction, transformation, and loading across diverse sources, gaining exposure to PySpark and cloud-based data engineering tools such as Databricks and Azure Data Factory, strengthening technical problem-solving abilities and data transformation expertise.",
+        "Explored data engineering and analytics concepts to extract insights aligned with business needs, while troubleshooting challenges in ETL/ELT pipelines and data transformations as they arose, refining analytical thinking and developing resilience in navigating complex technical obstacles."
+      ]
+    },
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "Haskayne School of Business, University of Calgary 09/2013 -- 01/2018",
+      "Bullet": [
+        "Conducted primary and secondary market research (including managing focus groups, multi-variable regression analysis) to inform data-driven decision-making while defining a marketing strategy.",
+        "Completed statistics and quantitative analysis courses, with practical application in marketing research."
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "**Parks Canada Land Management Dashboard\\** *Power BI, SQL, Azure*",
+      "Bullet": [
+        "Developed a Power BI dashboard for Parks Canada\\'s land management strategy, visualizing key performance indicators (KPIs) for land preservation, park visitation rates, and ecological health, delivering a comprehensive solution that enabled stakeholders to monitor environmental stewardship commitments and make data-driven resource allocation decisions, strengthening skills in translating complex environmental data into actionable insights for conservation planning.",
+        "Integrated previously siloed data sources to deliver a single-pane-of-glass solution that presented a cohesive data-driven narrative on the organization\\'s current state and progress toward long-term strategic goals, developing experience in data integration methodologies and stakeholder communication through visual storytelling.",
+        "Designed and implemented ETL/ELT pipelines integrated with data infrastructure within Microsoft Azure\\'s cloud platform, focusing on data modeling, performance tuning, and role-based access controls to ensure secure and efficient data operations, gaining hands-on experience with cloud security principles and enterprise data governance practices."
+      ]
+    },
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "## **Sales Performance Dashboard** *Power BI, DAX, Power Query, Star Schema*",
+      "Bullet": [
+        "Independently designed and built a multi-dimensional sales dashboard featuring four integrated visualizations (sales funnel, quota progress, forecast table, and profitability breakdown) that enable sales managers to drill from team-level performance to individual opportunity details with interactive filtering by sales representative, developing skills in translating business requirements into user-centric analytical solutions and understanding stakeholder workflows.",
+        "Implemented a star schema data model with 6 related tables (fact and dimension) and authored 15+ DAX measures including quota attainment percentages, expected pipeline value, profit margins, and YTD calculations to enable dynamic performance analysis, strengthening expertise in dimensional modeling and advanced DAX formula development.",
+        "Leveraged Power Query for ETL transformations and structured the data model to accommodate additional dimensions, time periods, or data sources without architectural changes, gaining experience in scalable data architecture design and pipeline optimization for future extensibility."
+      ]
+    }
+  ],
+  "ProfessionalExperience": [
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "**Personal Development & Career Planning** 03/2022 -- 01/2025",
+      "Bullet": [
+        "Planned leave to focus on health, career redirection, and upskilling in business intelligence."
+      ]
+    },
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "**Charter Telecom. Inc, Virtual Account Manager** 10/2019 -- 03/2022",
+      "Bullet": [
+        "Supported Account Managers in sales operations, primarily through the timely generation of accurate paginated reports to deliver optimal technology solutions for businesses across Canada, coordinating with multiple stakeholders to balance competing priorities and ensure customer satisfaction, strengthening project management and multi-stakeholder communication skills in a fast-paced sales environment.",
+        "Delivered timely reports for IT support services renewals, highlighting key information for easy-to-read quotes that facilitated efficient client approvals and ensured seamless coverage, developing attention to detail and customer-centric communication skills while managing critical renewal cycles.",
+        "Developed a file organization schema referencing primary keys to maintain structured tracking of solution iterations throughout the sales cycle, gaining experience in data organization principles and version control concepts that transfer directly to database design and data engineering workflows.",
+        "Built a Power BI dashboard using historical sales data to identify trends in customer purchasing behavior, supporting strategic development of market segmentation in the education sector and enabling actionable data insights for business planning, learning to translate raw data into strategic business value through visualization and analysis."
+      ]
+    },
+    {
+      "SourceResume": "matthew-gillanders-resume",
+      "Subsection": "## **Expera IT (formerly Debian IT), Appointment Setter** 02/2019 -- 10/2019",
+      "Bullet": [
+        "Designed and automated data pipelines for marketing campaigns using no-code platforms, integrating email workflows, APIs, and structured RSVP tracking to streamline event attendance reporting, gaining foundational understanding of data integration concepts and automation logic that underpin modern ETL/ELT processes.",
+        "Professionally engaged prospective clients to understand needs and pain points, synthesizing key insights to prepare Account Managers for informed client meetings, developing business requirements gathering skills and learning to distill complex information into actionable summaries for stakeholders.",
+        "Maintained and updated CRM data by exporting, cleansing, and reimporting datasets to ensure accuracy and integrity for outreach campaigns, gaining hands-on experience with data quality management and ETL fundamentals in a business-critical application."
+      ]
+    }
+  ]
+}

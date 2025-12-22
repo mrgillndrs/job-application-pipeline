@@ -1,0 +1,42 @@
+# Environment and secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files (we don't want to commit large files)
+data/raw/*.json
+data/processed/*.json
+data/vectors/*.parquet
+data/results/*.json
+data/results/*.csv
+
+# But DO keep the resume
+!data/resume/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+#Personal Notes
+Personal_Notes.md
